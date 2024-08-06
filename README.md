@@ -1,3 +1,3 @@
 # AL
-trading course
+### trading course
 this is AL Brooks Trading Course Learning Notes
