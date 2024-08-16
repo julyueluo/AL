@@ -73,14 +73,14 @@
 
 - What is the Forex market?  
 - Forex sessions
-- Leverage, fundamentals 杠杆，基本面
-- Risks, costs, brokers 风险，成本，经纪人
+- Leverage, fundamentals
+- Risks, costs, brokers
 - Symbols  
-- Types of quotes 报价类型
-- Value of a pip 点值
+- Types of quotes
+- Value of a pip
 - Forex workspaces  
-- Futures or Forex? 期货还是外汇
-- Charts only approximate （近视值）
+- Futures or Forex?
+- Charts only approximate
 - Scalps and Swing trades
 - Margins  
 - Profit and loss
@@ -89,88 +89,88 @@
 
 ## 05 Program Trading
 
-- What is program trading? 什么是程序交易
-- High frequency trading 高频交易
-- Spoofing 欺骗
-- Front running & HFTs 抢先交易和高频交易
+- What is program trading?
+- High frequency trading
+- Spoofing  
+- Front running & HFTs  
 
 ## 06 Personality Traits of Successful Traders
 
-- Traits of great traders  优秀交易员的特质
-- Doing stupid things 做愚蠢的事
-- Comfortable with uncertainty 适应不确定性
+- Traits of great traders
+- Doing stupid things
+- Comfortable with uncertainty
 
 ## 07 Starting Out 开始
 
-- False beliefs 错误信念
-- What is the big picture? B L S H! 大局是什么？
-- Chart types, time frames 图表类型、时间范围
-- Starting out and advancing 起步和提高
-- Emotions 情绪
-- Fear and greed 恐惧和贪婪
-- Uncertainty 不确定性
+- False beliefs
+- What is the big picture? B L S H!
+- Chart types, time frames
+- Starting out and advancing
+- Emotions
+- Fear and greed
+- Uncertainty
 
 ## 08 Candles, Setups, and Signal Bars
 
-- Trend bars and TR bars 趋势k线 和交易区间k线
-- Signal bars and entry bars 信号k 和入场位k
-- Bad signal bars 不好的信号k
-- Reversal bars 反转线
-- Multi bar reversals 多条反转
-- Inside and outside bars 内包线 外包线
-- Tight Trading Ranges as setups 窄通道
-- ii and Breakout Mode Ⅱ 和突破模式
-- What is a setup? 什么是形态
-- Weak setup, need more 弱形态 需要确认
+- Trend bars and TR bars
+- Signal bars and entry bars
+- Bad signal bars
+- Reversal bars
+- Multi bar reversals
+- Inside and outside bars
+- Tight Trading Ranges as setups
+- ii and Breakout Mode
+- What is a setup?
+- Weak setup, need more
 - 2nd signal 第二信号
-- Countertrend needs strong signal bar 逆势需要强单信号K
+- Countertrend needs strong signal bar
 
 ## 09 Pullbacks and Bar Counting
 
-- What is a pullback? 什么是回调/反转
-- What is bar counting? 什么是数k线
-- Double Top Bear Flags, and Double Bottom Bull Flags 双顶熊旗 双底牛旗
-- High 4 and Low 4 Consecutive reversals 高4 低4 连续逆转
-- Endless pullback 无尽反转
-- Higher and lower time frames 更大/更小 时间范围
-- Countertrend traders exit on High or Low 2  逆势交易者在高2或低 2 时退出
+- What is a pullback?
+- What is bar counting?
+- Double Top Bear Flags, and Double Bottom Bull Flags
+- High 4 and Low 4 Consecutive reversals
+- Endless pullback
+- Higher and lower time frames
+- Countertrend traders exit on High or Low 2
 
 ## 10 Buying and Selling Pressure
 
-- What is Buying and Selling Pressure? 什么是买压 卖压
-- Gaps 缺口
-- Trading Ranges 交易区间
-- Channels 通道
+- What is Buying and Selling Pressure?
+- Gaps
+- Trading Ranges
+- Channels
 
 ## 11 Gaps
 
-- What are gaps? 什么是缺口
-- Moving Average Gap Bars 移动平均 缺口k
-- Exhaustion Gap 疲惫缺口
-- Micro gaps 微缺口
-- Gap Open Bars 跳空开盘
-- Gaps mean strength 缺口意味着强度
-- Body Gap (Negative gap) 实体缺口 负缺口
-- Gaps often lead to trends 缺口 导致趋势
-- Stairs 阶梯
+- What are gaps?
+- Moving Average Gap Bars
+- Exhaustion Gap
+- Micro gaps
+- Gap Open Bars
+- Gaps mean strength
+- Body Gap (Negative gap)
+- Gaps often lead to trends
+- Stairs
 
 ## 12 Market Cycle
   
-- Four parts of market cycle? 市场周期的4部分
-- Pullback is start of channel  回调是通道的开始
-- Channel becomes Trading Range 通道变成区间
-- Market cycle: always trend or TR  趋势或区间
-- Inertia and 80% rule 惯性和 80% 规则  
-- Definitions 1: Trends, swings, legs 定义1： 趋势 波动 腿
-- Definitions 2: Pullbacks 定义2：反弹/反转
-- Definitions 3: Trading Range 定义3：交易区间
-- Binary decisions 二元决策
+- Four parts of market cycle?
+- Pullback is start of channel
+- Channel becomes Trading Range
+- Market cycle: always trend or TR
+- Inertia and 80% rule
+- Definitions 1: Trends, swings, legs
+- Definitions 2: Pullbacks
+- Definitions 3: Trading Range
+- Binary decisions
 
 ## 13 Always In
 
 - Always trend or TR
 - Always In direction
-- Trader’s Equation  交易者方程
+- Trader’s Equation
 - Always In Long
 - Always In Short
 - Scalping and swing trading
@@ -178,11 +178,11 @@
 ## 14 Trends
 
 - What is a trend?
-- Bull trend needs Higher Lows 牛市中低点抬高
-- Bear trend needs Lower Highs 熊市中高点降低
-- When not clear, then TR 不明确的时候陷入交易区间
-- Breakout is strongest trend 突破是最强的趋势
-- 80% rule: Most reversals fail 80% 的反转会失败
+- Bull trend needs Higher Lows
+- Bear trend needs Lower Highs
+- When not clear, then TR
+- Breakout is strongest trend
+- 80% rule: Most reversals fail
 - Types of trends
 - Bull and bear trends
 - Traps and breakouts
